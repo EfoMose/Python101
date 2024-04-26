@@ -1,2 +1,2 @@
 # Python101
-Refreshing python for secuirty 
+Refreshing python for security
